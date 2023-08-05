@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+## Screenshots
+
+#Table 1
+![FlavonoidsTable](https://github.com/hulkmania40/Manufac-Analytics/assets/62755362/1d72c72f-0cac-4334-88e9-c8b775599730)
+#Table 2
+![GammaTable](https://github.com/hulkmania40/Manufac-Analytics/assets/62755362/487adf1c-4d6b-4cf1-9499-3a433da541b9)
+
+## Getting Started with Create React App
 
 This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
