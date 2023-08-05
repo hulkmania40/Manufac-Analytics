@@ -12,7 +12,8 @@ This project was created with [Create React App](https://github.com/facebook/cre
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `yarn install`
+It'll install the necessary dependencies. Then run:
 ### `yarn start`
 
 Runs the app in the development mode.\
