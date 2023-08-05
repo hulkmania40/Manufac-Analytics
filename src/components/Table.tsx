@@ -16,6 +16,7 @@ interface TableData {
 const Table: FC<TableProps> = ({ title, data }) => {
   return (
     <>
+      <div className="table-name">{title} Table</div>
       <table className="table-container">
         <thead>
           <tr>
