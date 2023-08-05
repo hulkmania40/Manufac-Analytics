@@ -44,7 +44,6 @@ const App: FC<AppProps> = () => {
   });
 
   const calculateMeanMedianMode = (data: DataProps[]) => {
-
     // Create an object to store the sum, count, and occurrences for each Alcohol class
     const alcoholStats: any = {};
 
